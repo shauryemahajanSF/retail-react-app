@@ -1,6 +1,6 @@
 {
   "setup": {
-    "project.name": "test3-repo",
+    "project.name": "test6",
     "project.mrt.defaultMrtProject": "wei-mrt-project",
     "project.mrt.defaultMrtTarget": "wei-mrt-target",
     "project.commerce.slasClientId": "1ea06c6e-c936-4324-bcf0-fada93f83bb1",
