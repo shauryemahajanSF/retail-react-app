@@ -1,6 +1,6 @@
 {
   "setup": {
-    "project.name": "test6",
+    "project.name": "retail-react-app",
     "project.mrt.defaultMrtProject": "wei-mrt-project",
     "project.mrt.defaultMrtTarget": "wei-mrt-target",
     "project.commerce.slasClientId": "1ea06c6e-c936-4324-bcf0-fada93f83bb1",
